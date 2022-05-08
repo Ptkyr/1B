@@ -1,2 +1,2 @@
 # 1B
-Notes for my courses
+Notes for the courses I took in 1B
